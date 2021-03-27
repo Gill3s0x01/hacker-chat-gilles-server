@@ -13,6 +13,8 @@
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/hacker-chat-gilles-server?color=1db954">
       <img alt="Stars" src="https://img.shields.io/github/stars/Gilles30/hacker-chat-gilles-server?color=1db954">
       <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Gilles30/hacker-chat-gilles-server?color=1db954">
+      <img alt="node" src="https://img.shields.io/badge/nodejs-15.11.0-blue" />
+      <img alt="blessed" src="https://img.shields.io/badge/blessed-0.1.81-orange"/>
   </p>
 </h1>
 
